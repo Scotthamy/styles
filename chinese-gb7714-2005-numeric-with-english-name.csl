@@ -2,6 +2,7 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" names-delimiter=". " name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
     <title>China National Standard GB/T 7714-2005 with English Name</title>
+    <id>http://www.zotero.org/styles/chinese-gb7714-2005-numeric</id>
 
     <author>
       <name>scottham</name>
